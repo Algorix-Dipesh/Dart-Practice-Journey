@@ -1,4 +1,4 @@
-// Definition: variables can store values that can be changed & constatns also store values but it does not change
+// Definition: variables can store values that can be changed & constants also store values but it does not change
 
 /** Example:
  * var name = "Algo";
