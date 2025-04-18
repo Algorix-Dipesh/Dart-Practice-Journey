@@ -4,8 +4,8 @@ Track your Dart learning progress from beginner to advanced.
 
 ## ✅ Beginner
 
-- [ ] Variables and Constants
-- [ ] Data Types
+- [✔️] Variables and Constants
+- [✔️] Data Types
 - [ ] Control Flow (if, else, switch)
 - [ ] Loops (for, while, do-while)
 - [ ] Functions
