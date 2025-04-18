@@ -7,7 +7,7 @@ Track your Dart learning progress from beginner to advanced.
 - [✔️] Variables and Constants
 - [✔️] Data Types
 - [✔️] Control Flow (if, else, switch)
-- [ ] Loops (for, while, do-while)
+- [✔️] Loops (for, while, do-while)
 - [ ] Functions
 - [ ] String Manipulation
 
